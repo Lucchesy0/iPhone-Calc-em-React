@@ -1,0 +1,8 @@
+.display {
+    font-size: 80px;
+    font-weight: 300px;
+    margin-bottom: 20px;
+    text-align: right;
+    overflow: hidden;
+    user-select: none;
+}
