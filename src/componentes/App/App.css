@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
     height: 100%;
     margin: 0;
     display: flex;
@@ -36,6 +37,7 @@ html, body {
     grid-template-rows: repeat(5, 1fr);
     height: calc(100% - 400px);
 }
+
 .wifi {
     user-select: none;
 }

@@ -127,7 +127,7 @@ const App = () => {
             .padStart(2, "0")}
         </div>
         <div className="menu">
-          <img className="wifi "src={menu} alt="menu" />
+          <img className="wifi " src={menu} alt="menu" />
         </div>
       </div>
       <Display value={commafy(value)} />
